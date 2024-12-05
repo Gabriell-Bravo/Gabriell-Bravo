@@ -8,5 +8,5 @@
 <div style= 'display: inline_block'><br/>
 <img align='center' alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
 <img align='center' alt='HTML' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />
-<img align='center' alt='JavaScript' src=' https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript' />
+<img align='center' alt='JavaScript' src='[ https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)' />
 </div>
